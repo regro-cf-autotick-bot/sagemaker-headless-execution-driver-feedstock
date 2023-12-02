@@ -1,5 +1,5 @@
 {% set name = "sagemaker-headless-execution-driver" %}
-{% set version = "0.0.11" %}
+{% set version = "0.0.12" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/sagemaker-headless-execution-driver-{{ version }}.tar.gz
-  sha256: 1c68962d505651f3f45f43ba64bce52771b8696239dec3a2f20f1c84870f7bbc
+  sha256: 5715ba669953841eee1fa917f4dae0f869019e7bc985a1ea46d3975d6db45385
 
 build:
   noarch: python
