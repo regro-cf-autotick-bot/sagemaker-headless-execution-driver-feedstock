@@ -23,6 +23,7 @@ requirements:
   run:
     - python >=3.8
     - papermill >=2.4
+    - nbconvert
 
 test:
   imports:
