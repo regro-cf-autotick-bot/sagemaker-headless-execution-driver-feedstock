@@ -143,5 +143,12 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@Aditi2424](https://github.com/Aditi2424/)
+* [@C24IO](https://github.com/C24IO/)
+* [@akrishna1995](https://github.com/akrishna1995/)
+* [@benieric](https://github.com/benieric/)
+* [@mufaddal-rohawala](https://github.com/mufaddal-rohawala/)
+* [@nargokul](https://github.com/nargokul/)
 * [@oztoprakmustafa](https://github.com/oztoprakmustafa/)
+* [@pintaoz-aws](https://github.com/pintaoz-aws/)
 
